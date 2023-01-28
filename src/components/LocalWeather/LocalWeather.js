@@ -4,7 +4,7 @@ import BackgroundImage from "../BackgroundImage/BackgroundImage";
 import CityName from "./components/CityName/CityName";
 import Weather from "./components/Weather/Weather";
 import getWeather from "../../apis/getWeather/getWeather";
-import cardBg from "../../assets/images/cardBg.png";
+import cardBg from "../../assets/images/cardBgImg.png";
 
 const Layout = styled.div`
   padding: 64px 96px;

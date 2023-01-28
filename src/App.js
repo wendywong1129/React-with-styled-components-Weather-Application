@@ -4,7 +4,7 @@ import BackgroundImage from "./components/BackgroundImage/BackgroundImage";
 import ForeCast from "./components/Forecast/Forecast";
 import LocalWeather from "./components/LocalWeather/LocalWeather";
 import OtherCities from "./components/OtherCities/OtherCities";
-import wrapperBg from "./assets/images/wrapperBg.jpg";
+import wrapperBg from "./assets/images/wrapperBgImg.jpg";
 
 const Wrapper = styled(BackgroundImage)`
   min-height: 100vh;
